@@ -13,6 +13,6 @@ a simple practic in c or c++ programs is that we kept all the constants, macros,
 this project will be devided into 3 branchs which specify the severity of codes so it's better to read README file in each branches.
 
 ## how does it work!
-1. git clone https://github.com/usersarveen1991/makefile-mahsa-ghazi.git
+1. git clone https://github.com/usersarveen1991/makefile.git
 2. make 
 3. ./result
