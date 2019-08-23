@@ -13,8 +13,11 @@ a simple practic in c or c++ programs is that we kept all the constants, macros,
 this project will be devided into 3 branchs which specify the severity of codes so it's better to read README file in each branches.
 
 ### the basic branch will show you the basic concept if makefile up to advance level.
+### basic1 branch
+in this branch the header file in main.c in removed and the prototype invoked function was declared.
 
 ## how does it work!
 1. git clone https://github.com/usersarveen1991/makefile-mahsa-ghazi.git
-2. make 
-3. ./result
+2. gcc -c main.c 
+3. gcc -c gd.c
+4. gcc main.o gd.o -o result
