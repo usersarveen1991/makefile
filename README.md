@@ -18,6 +18,5 @@ in this branch the header file in main.c in removed and the prototype invoked fu
 
 ## how does it work!
 1. git clone https://github.com/usersarveen1991/makefile-mahsa-ghazi.git
-2. gcc -c main.c 
-3. gcc -c gd.c
-4. gcc main.o gd.o -o result
+2. make 
+3. ./result
